@@ -1,8 +1,8 @@
 {
-    "clientID":"BOTclientID",
-    "clientSecret":"BOTclientSecret",
+    "clientID":"862448767701745675",
+    "clientSecret":"X9temuJf14ocbvzvbj-17v6Sx0heCjcv",
     "callbackURL":"BOTcallbackURL",
-    "Admin":["userAdminID"],
-    "token":"BOTtoken",
-    "prefix":"-"
+    "Admin":["834857140958527550"],
+    "token":"",
+    "prefix":"R!"
 }
